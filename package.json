@@ -1,0 +1,23 @@
+{
+  "name": "closures-callbacks",
+  "version": "1.0.0",
+  "description": "<img src=\"http://montanacodeschool.com/wp-content/uploads/2015/06/MCS_LOGO_v1.png\" width=\"200\" align=\"right\"/>",
+  "main": "ccPractice.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Montana-Code-School/ClosuresCallbacks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Montana-Code-School/ClosuresCallbacks/issues"
+  },
+  "homepage": "https://github.com/Montana-Code-School/ClosuresCallbacks#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
