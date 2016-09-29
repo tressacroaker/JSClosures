@@ -17,11 +17,10 @@ var expect = chai.expect;
   describe('Closures - Exercise 2', function () {
     it("someFunc should return a function that adds it's input to the next", function () {
       cc.counter()
-      expect(cc.counter()).to.eql(5)
+      expect(cc.counter()).to.eql(6)
       cc.counter()
-      expect(cc.counter()).to.eql(7)
+      expect(cc.counter()).to.eql(8)
       cc.counter()
-      expect(cc.counter()).to.eql(9)
+      expect(cc.counter()).to.eql(10)
     })
   })
-})
